@@ -9,6 +9,7 @@ import java.util.NoSuchElementException;
  * @author amehlhas
  *
  */
+//test edit
 final class Main {
 	/**
 	 * All methods should have a Javadoc according to STYLE.
